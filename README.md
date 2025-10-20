@@ -12,6 +12,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 ## PROGRAM:
 
 ## OUTPUT:
+<img width="787" height="916" alt="Screenshot 2025-10-20 175515" src="https://github.com/user-attachments/assets/66a90293-4d40-49c8-8914-f3b59bef291c" />
 
 
 
